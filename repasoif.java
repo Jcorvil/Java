@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
 public class repasoif {
     public static void main(String[] args) {
         int a = 1;

@@ -1,6 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-import javax.sound.sampled.SourceDataLine;
-
 /*No hacen falta poner las llaves en cada "if" porque solo tiene una sentencia.
 *Con varias sentencias si harían falta
 */
